@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AccessScope property" Url="html/bba56f97-5aba-21e6-010c-0870e4bdce33.htm" />
+  <HelpKINode Title="AccessToken property" Url="html/22697323-9957-0d06-d9f2-79fbe245d0ed.htm" />
+  <HelpKINode Title="AuthController class">
+    <HelpKINode Title="AuthController Class" Url="html/6013c21d-14af-9a71-a6c0-e7cf3260133d.htm" />
+    <HelpKINode Title="about AuthController class" Url="html/6013c21d-14af-9a71-a6c0-e7cf3260133d.htm" />
+    <HelpKINode Title="constructor" Url="html/7fc3ed6c-c330-8195-21a2-02fd677bdb98.htm" />
+    <HelpKINode Title="events" Url="html/1d839530-9260-e48a-282e-ac9d97c00c09.htm" />
+    <HelpKINode Title="methods" Url="html/302fcf80-fd1a-5bdd-ca4c-518ad8038b95.htm" />
+    <HelpKINode Title="properties" Url="html/2e2e2f58-a672-aa92-d0b1-9284a23f4002.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AuthController.AuthController constructor" Url="html/7fc3ed6c-c330-8195-21a2-02fd677bdb98.htm" />
+  <HelpKINode Title="AuthController.Client property" Url="html/d60a8d1e-71fd-6c54-f176-f57b3aaeee61.htm" />
+  <HelpKINode Title="AuthController.Info property" Url="html/602a5ba4-3f44-7f49-b719-ae0d3d6e949a.htm" />
+  <HelpKINode Title="AuthController.OnRenewTokenFailed method" Url="html/061ab97e-b5eb-82cf-210a-5850794f1312.htm" />
+  <HelpKINode Title="AuthController.OnRenewTokenStarted method" Url="html/1802ade2-5129-56c0-7022-83b71cc49478.htm" />
+  <HelpKINode Title="AuthController.OnTokenRenewed method" Url="html/d3d88667-de09-7336-8fa2-11f5ca2aa296.htm" />
+  <HelpKINode Title="AuthController.RenewTokenBeforeExpiry method" Url="html/90067f2d-bf6c-bcee-42dc-bafaa1ce643d.htm" />
+  <HelpKINode Title="AuthController.RenewTokenFailed event" Url="html/82cd3a9b-5a06-90bc-30ab-8e2198267c89.htm" />
+  <HelpKINode Title="AuthController.RenewTokenStarted event" Url="html/e5b4d0c1-b59f-b13e-40d4-f80f6823d987.htm" />
+  <HelpKINode Title="AuthController.RetrieveAccessToken method" Url="html/20708110-43e7-6f36-54c0-385590106249.htm" />
+  <HelpKINode Title="AuthController.TokenRenewed event" Url="html/0bca6acc-d423-2372-d5ce-337e3e95dce6.htm" />
+  <HelpKINode Title="Client property" Url="html/d60a8d1e-71fd-6c54-f176-f57b3aaeee61.htm" />
+  <HelpKINode Title="ClientID property" Url="html/50fe5c8b-9160-8e71-41f7-7ac3a82ce452.htm" />
+  <HelpKINode Title="ClientSecret property" Url="html/da2610b8-1263-38db-9934-188c61592d0b.htm" />
+  <HelpKINode Title="Error property">
+    <HelpKINode Title="ErrorEventArgs.Error Property " Url="html/2ef1041c-6cd9-25c6-9c86-3b513d091688.htm" />
+    <HelpKINode Title="IErrorContainer.Error Property " Url="html/fe4200f8-1c3c-deab-0ec3-511e672e7e35.htm" />
+    <HelpKINode Title="OAuthResponse.Error Property " Url="html/c06ccb4e-c029-f2d3-55dc-828374043c46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorDescription property">
+    <HelpKINode Title="ErrorEventArgs.ErrorDescription Property " Url="html/64ba3e58-8dc5-6b57-dfd4-fb3f395aacbd.htm" />
+    <HelpKINode Title="IErrorContainer.ErrorDescription Property " Url="html/a4545750-8ba7-f85d-08cc-405329855e4e.htm" />
+    <HelpKINode Title="OAuthResponse.ErrorDescription Property " Url="html/e808fa1b-35b9-009d-c9b8-e2ddd0e63378.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorEventArgs class">
+    <HelpKINode Title="ErrorEventArgs Class" Url="html/287dc948-405c-1872-2deb-daa2ff3ef61b.htm" />
+    <HelpKINode Title="about ErrorEventArgs class" Url="html/287dc948-405c-1872-2deb-daa2ff3ef61b.htm" />
+    <HelpKINode Title="constructor" Url="html/2573def3-7096-b88e-ae56-84e1bb44ceae.htm" />
+    <HelpKINode Title="methods" Url="html/4275e4d9-e038-44a4-2645-2194084037f3.htm" />
+    <HelpKINode Title="properties" Url="html/86aca8fc-5a22-aaa9-9553-132c42969e0b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorEventArgs.Error property" Url="html/2ef1041c-6cd9-25c6-9c86-3b513d091688.htm" />
+  <HelpKINode Title="ErrorEventArgs.ErrorDescription property" Url="html/64ba3e58-8dc5-6b57-dfd4-fb3f395aacbd.htm" />
+  <HelpKINode Title="ErrorEventArgs.ErrorEventArgs constructor" Url="html/2573def3-7096-b88e-ae56-84e1bb44ceae.htm" />
+  <HelpKINode Title="ExpiresIn property" Url="html/7f1e7fde-d02a-9ccb-396a-55881dc2059a.htm" />
+  <HelpKINode Title="IErrorContainer interface">
+    <HelpKINode Title="IErrorContainer Interface" Url="html/d9d8361e-ce58-bef7-97e8-2efb926669a6.htm" />
+    <HelpKINode Title="about IErrorContainer interface" Url="html/d9d8361e-ce58-bef7-97e8-2efb926669a6.htm" />
+    <HelpKINode Title="methods" Url="html/73ac8dcd-454c-b0cf-64d4-3b5b743b1fbd.htm" />
+    <HelpKINode Title="properties" Url="html/aeab1c54-ed2c-1ea8-36b3-dba40d865e9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IErrorContainer.Error property" Url="html/fe4200f8-1c3c-deab-0ec3-511e672e7e35.htm" />
+  <HelpKINode Title="IErrorContainer.ErrorDescription property" Url="html/a4545750-8ba7-f85d-08cc-405329855e4e.htm" />
+  <HelpKINode Title="IErrorContainerEx class">
+    <HelpKINode Title="IErrorContainerEx Class" Url="html/084b7efc-7815-a23a-0d9d-67b3939dbbf8.htm" />
+    <HelpKINode Title="about IErrorContainerEx class" Url="html/084b7efc-7815-a23a-0d9d-67b3939dbbf8.htm" />
+    <HelpKINode Title="methods" Url="html/1e3130ce-5049-3015-34b6-5b267306462e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IErrorContainerEx.IErrorContainerToString method" Url="html/c16c3eed-7149-ba7e-d9f9-76f231450f89.htm" />
+  <HelpKINode Title="IErrorContainerToString method" Url="html/c16c3eed-7149-ba7e-d9f9-76f231450f89.htm" />
+  <HelpKINode Title="Info property" Url="html/602a5ba4-3f44-7f49-b719-ae0d3d6e949a.htm" />
+  <HelpKINode Title="IOAuthClient interface">
+    <HelpKINode Title="IOAuthClient Interface" Url="html/134fd512-cc77-0db5-8f10-e251de05735e.htm" />
+    <HelpKINode Title="about IOAuthClient interface" Url="html/134fd512-cc77-0db5-8f10-e251de05735e.htm" />
+    <HelpKINode Title="properties" Url="html/9ee510ae-7109-8b02-1e81-8346f9dcd852.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOAuthClient.AccessScope property" Url="html/bba56f97-5aba-21e6-010c-0870e4bdce33.htm" />
+  <HelpKINode Title="IOAuthClient.ClientID property" Url="html/50fe5c8b-9160-8e71-41f7-7ac3a82ce452.htm" />
+  <HelpKINode Title="IOAuthClient.ClientSecret property" Url="html/da2610b8-1263-38db-9934-188c61592d0b.htm" />
+  <HelpKINode Title="IOAuthClient.TokenEndPoint property" Url="html/2c26fb57-cbdc-3e4c-522b-bbc92f3a4138.htm" />
+  <HelpKINode Title="OAuthResponse class">
+    <HelpKINode Title="OAuthResponse Class" Url="html/5a775f25-229a-ed59-10e0-a341d28185c4.htm" />
+    <HelpKINode Title="about OAuthResponse class" Url="html/5a775f25-229a-ed59-10e0-a341d28185c4.htm" />
+    <HelpKINode Title="constructor" Url="html/f00e895d-1e50-0010-be09-18e4766b3fda.htm" />
+    <HelpKINode Title="methods" Url="html/9a7ffd3b-c8de-5e5f-4c88-58c4a94605c4.htm" />
+    <HelpKINode Title="properties" Url="html/2ae9b81c-d427-3102-01d3-de70a22cf45a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OAuthResponse.AccessToken property" Url="html/22697323-9957-0d06-d9f2-79fbe245d0ed.htm" />
+  <HelpKINode Title="OAuthResponse.Error property" Url="html/c06ccb4e-c029-f2d3-55dc-828374043c46.htm" />
+  <HelpKINode Title="OAuthResponse.ErrorDescription property" Url="html/e808fa1b-35b9-009d-c9b8-e2ddd0e63378.htm" />
+  <HelpKINode Title="OAuthResponse.ExpiresIn property" Url="html/7f1e7fde-d02a-9ccb-396a-55881dc2059a.htm" />
+  <HelpKINode Title="OAuthResponse.OAuthResponse constructor" Url="html/f00e895d-1e50-0010-be09-18e4766b3fda.htm" />
+  <HelpKINode Title="OAuthResponse.RefreshToken property" Url="html/8f72c9ba-71f9-3150-ea22-4be7aeda99fe.htm" />
+  <HelpKINode Title="OAuthResponse.Scope property" Url="html/80af457e-0b6f-afd9-4ffc-ce0a130ffa48.htm" />
+  <HelpKINode Title="OAuthResponse.TokenType property" Url="html/38c2c0b0-c01f-482e-a36a-9801c5dedf56.htm" />
+  <HelpKINode Title="OAuthResponse.ToString method" Url="html/c896f621-3c5b-bf17-2267-00288763dfde.htm" />
+  <HelpKINode Title="OAuthResponse.ToStringSuccessResponse method" Url="html/c5d1a2c9-dc33-fc9c-a6f2-68f2abddf5dd.htm" />
+  <HelpKINode Title="OAuthST namespace" Url="html/8bbf0f3f-cfca-37c4-5cd1-95f90b6afe5d.htm" />
+  <HelpKINode Title="OAuthST.AuthController class" Url="html/6013c21d-14af-9a71-a6c0-e7cf3260133d.htm" />
+  <HelpKINode Title="OAuthST.ExtensionMethods namespace" Url="html/f47c358b-7e37-ec62-cb8e-5b0928b21dc8.htm" />
+  <HelpKINode Title="OAuthST.ExtensionMethods.IErrorContainerEx class" Url="html/084b7efc-7815-a23a-0d9d-67b3939dbbf8.htm" />
+  <HelpKINode Title="OAuthST.ExtensionMethods.ObjectEx class" Url="html/f0d03a37-e9d9-f1f1-218d-94731c65ae24.htm" />
+  <HelpKINode Title="OAuthST.Models namespace" Url="html/7c1652ba-4ebd-7a4c-e295-39461ab18fe8.htm" />
+  <HelpKINode Title="OAuthST.Models.ErrorEventArgs class" Url="html/287dc948-405c-1872-2deb-daa2ff3ef61b.htm" />
+  <HelpKINode Title="OAuthST.Models.IErrorContainer interface" Url="html/d9d8361e-ce58-bef7-97e8-2efb926669a6.htm" />
+  <HelpKINode Title="OAuthST.Models.IOAuthClient interface" Url="html/134fd512-cc77-0db5-8f10-e251de05735e.htm" />
+  <HelpKINode Title="OAuthST.Models.OAuthResponse class" Url="html/5a775f25-229a-ed59-10e0-a341d28185c4.htm" />
+  <HelpKINode Title="OAuthST.Models.ResponseReceivedEventArgs class" Url="html/7622515e-087b-1ffd-8d3b-25b40b1606d3.htm" />
+  <HelpKINode Title="OAuthST.Models.SendingRequestStartedEventArgs class" Url="html/a3454ec7-3a50-3f6d-81dc-8df0c1392fdf.htm" />
+  <HelpKINode Title="OAuthST.Models.TokenRenewedEventArgs class" Url="html/ad280bdc-f13a-5788-90c4-14a1e5b4e666.htm" />
+  <HelpKINode Title="ObjectEx class">
+    <HelpKINode Title="ObjectEx Class" Url="html/f0d03a37-e9d9-f1f1-218d-94731c65ae24.htm" />
+    <HelpKINode Title="about ObjectEx class" Url="html/f0d03a37-e9d9-f1f1-218d-94731c65ae24.htm" />
+    <HelpKINode Title="methods" Url="html/88d85008-3553-3e0b-6b94-51264b5d6bed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectEx.ObjectToString method" Url="html/e96c50dd-bfbb-2e49-9d8f-9effe5514181.htm" />
+  <HelpKINode Title="ObjectToString method" Url="html/e96c50dd-bfbb-2e49-9d8f-9effe5514181.htm" />
+  <HelpKINode Title="OnRenewTokenFailed method" Url="html/061ab97e-b5eb-82cf-210a-5850794f1312.htm" />
+  <HelpKINode Title="OnRenewTokenStarted method" Url="html/1802ade2-5129-56c0-7022-83b71cc49478.htm" />
+  <HelpKINode Title="OnTokenRenewed method" Url="html/d3d88667-de09-7336-8fa2-11f5ca2aa296.htm" />
+  <HelpKINode Title="RefreshToken property" Url="html/8f72c9ba-71f9-3150-ea22-4be7aeda99fe.htm" />
+  <HelpKINode Title="RenewTokenBeforeExpiry method" Url="html/90067f2d-bf6c-bcee-42dc-bafaa1ce643d.htm" />
+  <HelpKINode Title="RenewTokenFailed event" Url="html/82cd3a9b-5a06-90bc-30ab-8e2198267c89.htm" />
+  <HelpKINode Title="RenewTokenStarted event" Url="html/e5b4d0c1-b59f-b13e-40d4-f80f6823d987.htm" />
+  <HelpKINode Title="Request property" Url="html/9040ddde-f84e-e55b-040a-df0b62e06ae0.htm" />
+  <HelpKINode Title="Response property" Url="html/57eccda0-6efb-7933-0e79-af4e82437b28.htm" />
+  <HelpKINode Title="ResponseReceivedEventArgs class">
+    <HelpKINode Title="ResponseReceivedEventArgs Class" Url="html/7622515e-087b-1ffd-8d3b-25b40b1606d3.htm" />
+    <HelpKINode Title="about ResponseReceivedEventArgs class" Url="html/7622515e-087b-1ffd-8d3b-25b40b1606d3.htm" />
+    <HelpKINode Title="constructor" Url="html/4716a6dd-0f52-24d8-e2f2-48676686b8f8.htm" />
+    <HelpKINode Title="methods" Url="html/f4f06735-ae22-2f64-f872-24187d60507d.htm" />
+    <HelpKINode Title="properties" Url="html/63818437-f8a1-3675-d9ca-7e0dc8c3a396.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResponseReceivedEventArgs.Response property" Url="html/57eccda0-6efb-7933-0e79-af4e82437b28.htm" />
+  <HelpKINode Title="ResponseReceivedEventArgs.ResponseReceivedEventArgs constructor" Url="html/4716a6dd-0f52-24d8-e2f2-48676686b8f8.htm" />
+  <HelpKINode Title="RetrieveAccessToken method" Url="html/20708110-43e7-6f36-54c0-385590106249.htm" />
+  <HelpKINode Title="Scope property" Url="html/80af457e-0b6f-afd9-4ffc-ce0a130ffa48.htm" />
+  <HelpKINode Title="SendingRequestStartedEventArgs class">
+    <HelpKINode Title="SendingRequestStartedEventArgs Class" Url="html/a3454ec7-3a50-3f6d-81dc-8df0c1392fdf.htm" />
+    <HelpKINode Title="about SendingRequestStartedEventArgs class" Url="html/a3454ec7-3a50-3f6d-81dc-8df0c1392fdf.htm" />
+    <HelpKINode Title="constructor" Url="html/dd439a7b-95e2-c60a-da0c-6c607d1c1f88.htm" />
+    <HelpKINode Title="methods" Url="html/42a4f132-53c7-d10b-e4fc-aa95ee9046c6.htm" />
+    <HelpKINode Title="properties" Url="html/e390f06d-029c-dd63-4aae-bbd72ccb27f2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SendingRequestStartedEventArgs.Request property" Url="html/9040ddde-f84e-e55b-040a-df0b62e06ae0.htm" />
+  <HelpKINode Title="SendingRequestStartedEventArgs.SendingRequestStartedEventArgs constructor" Url="html/dd439a7b-95e2-c60a-da0c-6c607d1c1f88.htm" />
+  <HelpKINode Title="TokenEndPoint property" Url="html/2c26fb57-cbdc-3e4c-522b-bbc92f3a4138.htm" />
+  <HelpKINode Title="TokenInfo property" Url="html/437c8bc2-cdbb-c789-272b-1eccfe722aae.htm" />
+  <HelpKINode Title="TokenRenewed event" Url="html/0bca6acc-d423-2372-d5ce-337e3e95dce6.htm" />
+  <HelpKINode Title="TokenRenewedEventArgs class">
+    <HelpKINode Title="TokenRenewedEventArgs Class" Url="html/ad280bdc-f13a-5788-90c4-14a1e5b4e666.htm" />
+    <HelpKINode Title="about TokenRenewedEventArgs class" Url="html/ad280bdc-f13a-5788-90c4-14a1e5b4e666.htm" />
+    <HelpKINode Title="constructor" Url="html/831ca239-ef4e-d8e0-29de-88b255794610.htm" />
+    <HelpKINode Title="methods" Url="html/efc546b7-6f07-4745-f78b-d1826d121c54.htm" />
+    <HelpKINode Title="properties" Url="html/570cc347-fede-8a87-d13b-a3b34cbfd6ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TokenRenewedEventArgs.TokenInfo property" Url="html/437c8bc2-cdbb-c789-272b-1eccfe722aae.htm" />
+  <HelpKINode Title="TokenRenewedEventArgs.TokenRenewedEventArgs constructor" Url="html/831ca239-ef4e-d8e0-29de-88b255794610.htm" />
+  <HelpKINode Title="TokenType property" Url="html/38c2c0b0-c01f-482e-a36a-9801c5dedf56.htm" />
+  <HelpKINode Title="ToString method" Url="html/c896f621-3c5b-bf17-2267-00288763dfde.htm" />
+  <HelpKINode Title="ToStringSuccessResponse method" Url="html/c5d1a2c9-dc33-fc9c-a6f2-68f2abddf5dd.htm" />
+</HelpKI>
