@@ -8,7 +8,7 @@ https://www.nuget.org/packages/OAuthST/
 ``` C#
 var account = new AuthController(new IOAuthClient());  // you need to create your own implementation of the IOAuthClient interface
 
-// retrieved token is stored in AuthController.Info
+// retrieved token is stored inside AuthController.Info
 account.RetrieveAccessToken(username, password);
 
 // auto refresh the token when it's about to expire
