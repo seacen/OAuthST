@@ -19,3 +19,10 @@ account.TokenRenewed += (object sender, TokenRenewedEventArgs e) =>
     // Do something when token is renewed
 };
 ```
+### References
+[`AuthController`](OAuthST/AuthController.cs), 
+[`IOAuthClient`](OAuthST/Models/IOAuthClient.cs), 
+[`AuthController.Info`(`OAuthResponse`)](OAuthST/Models/OAuthResponse.cs), 
+[`AuthController.RetrieveAccessToken(username, password)`](OAuthST/AuthController.cs#L55-L71), 
+[`AuthController.RenewTokenBeforeExpiry()`](OAuthST/AuthController.cs#L166-L194), 
+[`AuthController.TokenRenewed`](OAuthST/AuthController.cs#L263-L270)
