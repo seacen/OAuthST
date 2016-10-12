@@ -1,5 +1,5 @@
 # OAuthST
-#### An OAuth controller that handles ROPC grant type authorization obtaining and auto token refreshing
+#### An OAuth controller that handles [ROPC](https://tools.ietf.org/html/rfc6749#section-1.3.3) grant type authorization obtaining and auto token refreshing
 
 ## NuGet Package
 https://www.nuget.org/packages/OAuthST/
