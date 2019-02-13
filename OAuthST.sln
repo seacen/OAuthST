@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28531.58
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthST", "OAuthST\OAuthST.csproj", "{70D790FB-0D05-485E-B2DB-18074E64F7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthST.Std", "OAuthST.Std\OAuthST.Std.csproj", "{B270F8B3-A1A9-424B-A321-423EF0BA9AF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{70D790FB-0D05-485E-B2DB-18074E64F7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70D790FB-0D05-485E-B2DB-18074E64F7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70D790FB-0D05-485E-B2DB-18074E64F7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B270F8B3-A1A9-424B-A321-423EF0BA9AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B270F8B3-A1A9-424B-A321-423EF0BA9AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B270F8B3-A1A9-424B-A321-423EF0BA9AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B270F8B3-A1A9-424B-A321-423EF0BA9AF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE28E09-7DA9-493F-AD6F-62D56C91AB4F}
 	EndGlobalSection
 EndGlobal
