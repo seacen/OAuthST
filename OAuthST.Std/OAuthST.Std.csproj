@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>OAuthST</AssemblyName>
+    <RootNamespace>OAuthST</RootNamespace>
+    <Version>1.0.1</Version>
+    <PackageProjectUrl>https://github.com/seacen/OAuthST</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/seacen/OAuthST/blob/master/LICENSE</PackageLicenseUrl>
+    <Authors>Xichang(Seacen) Zhao</Authors>
+    <Company />
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Description>An OAuth controller that handles ROPC grant type authorization obtaining and auto token refreshing</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\OAuthST\AuthController.cs" Link="AuthController.cs" />
+    <Compile Include="..\OAuthST\ExtensionMethods\IErrorContainerEx.cs" Link="ExtensionMethods\IErrorContainerEx.cs" />
+    <Compile Include="..\OAuthST\ExtensionMethods\ObjectEx.cs" Link="ExtensionMethods\ObjectEx.cs" />
+    <Compile Include="..\OAuthST\Models\ErrorEventArgs.cs" Link="Models\ErrorEventArgs.cs" />
+    <Compile Include="..\OAuthST\Models\IErrorContainer.cs" Link="Models\IErrorContainer.cs" />
+    <Compile Include="..\OAuthST\Models\IOAuthClient.cs" Link="Models\IOAuthClient.cs" />
+    <Compile Include="..\OAuthST\Models\OAuthResponse.cs" Link="Models\OAuthResponse.cs" />
+    <Compile Include="..\OAuthST\Models\SendingRequestStartedEventArgs.cs" Link="Models\SendingRequestStartedEventArgs.cs" />
+    <Compile Include="..\OAuthST\Models\SucceededResourceActionEventArgs.cs" Link="Models\SucceededResourceActionEventArgs.cs" />
+    <Compile Include="..\OAuthST\Models\TokenRenewedEventArgs.cs" Link="Models\TokenRenewedEventArgs.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="ExtensionMethods\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
+
+</Project>
