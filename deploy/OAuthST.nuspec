@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>OAuthST</id>
+    <version>1.0.1</version>
+    <title>OAuthST</title>
+    <authors>Xichang(Seacen) Zhao</authors>
+    <owners>Xichang(Seacen) Zhao</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/seacen/OAuthST/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/seacen/OAuthST</projectUrl>
+    <description>An OAuth controller that handles ROPC grant type authorization obtaining and auto token refreshing</description>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="9.0.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\OAuthST\bin\Debug\OAuthST.dll" target="lib\net451\OAuthST.dll" />    
+    <file src="..\OAuthST.Std\bin\Debug\netstandard2.0\OAuthST.dll" target="lib\netstandard2.0\OAuthST.dll" />
+  </files>
+</package>
