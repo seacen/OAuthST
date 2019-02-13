@@ -28,7 +28,7 @@ Task("NuGetPack")
 	});
 });
 
-Task("NuGetPack")
+Task("NugetPush")
     .IsDependentOn("Build")
     .Does(() =>
 {
